@@ -1,0 +1,22 @@
+{
+  "name": "cityfetchapi",
+  "version": "1.0.0",
+  "description": "cityFetchAPI",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krauseangelique/cityFetchAPI.git"
+  },
+  "author": "angelique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krauseangelique/cityFetchAPI/issues"
+  },
+  "homepage": "https://github.com/krauseangelique/cityFetchAPI#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
